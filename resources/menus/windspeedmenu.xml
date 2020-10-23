@@ -1,0 +1,7 @@
+<menu id="WindSpeedMenu" title="Wind Speed">
+    <menu-item id="Speed1" label="0-5"></menu-item>
+    <menu-item id="Speed2" label="6-10"></menu-item>
+    <menu-item id="Speed3" label="11-15"></menu-item>
+    <menu-item id="Speed4" label="16-20"></menu-item>
+    <menu-item id="Back" label="Back"></menu-item>
+</menu>

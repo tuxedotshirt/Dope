@@ -1,0 +1,26 @@
+<strings>
+    <string id="AppName">D.O.P.E.</string>
+    <string id="HomeTitle">Home</string>
+    <string id="Prompt">Press the menu\nbutton to start</string>
+
+    <string id="MainMenuTitle">Main Menu</string>
+    <string id="MenuLabel1">Go To Aux Menu</string>
+    <string id="MenuLabel2">Go Home </string>
+
+    <string id="AuxMenuTitle">Aux Menu</string>
+    <string id="AuxMenuLabel1">Go to Main Menu</string>
+    <string id="AuxMenuLabel2">Go Home</string>
+    
+    <string id="BackMessage">Press stop to\ngo back</string>
+    
+    <string id="characterPickerOk">OK</string>
+    
+    <string id="WindagePickerTitle">Windage</string>
+    <string id="WindageString">Windage</string>
+    
+    <string id="ElevationPickerTitle">Elevation</string>
+    <string id="ElevationString">Elevation</string>
+    
+    <string id="WindageSetting">--.--</string>
+    <string id="ElevationSetting">--.--</string>
+</strings>

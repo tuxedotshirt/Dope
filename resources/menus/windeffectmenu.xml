@@ -1,0 +1,8 @@
+<menu id="WindEffectMenu" title="Wind Effect">
+    <menu-item id="Percent0" label="0%"></menu-item>
+    <menu-item id="Percent25" label="25%"></menu-item>
+    <menu-item id="Percent50" label="50%"></menu-item>
+    <menu-item id="Percent75" label="75%"></menu-item>
+    <menu-item id="Percent100" label="100%"></menu-item> 
+    <menu-item id="Back" label="Back"></menu-item>
+</menu>

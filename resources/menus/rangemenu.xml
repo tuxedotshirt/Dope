@@ -1,0 +1,8 @@
+<menu id="RangeMenu" title="Range">
+    <menu-item id="Range100" label="100"></menu-item>
+    <menu-item id="Range200" label="200"></menu-item>
+    <menu-item id="Range300" label="300"></menu-item>
+    <menu-item id="Range400" label="400"></menu-item>
+    <menu-item id="Range500" label="500"></menu-item>
+    <menu-item id="Back" label="Back"></menu-item>
+</menu>

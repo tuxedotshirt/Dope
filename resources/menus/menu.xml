@@ -1,0 +1,5 @@
+<menu id="MainMenu" title="@Strings.MainMenuTitle">
+    <menu-item id="shoot" label="Shoot"></menu-item>
+    <menu-item id="setup" label="Setup"></menu-item>
+    <menu-item id="Exit" label="Exit"></menu-item>
+</menu>

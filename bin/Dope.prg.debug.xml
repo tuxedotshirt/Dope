@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\Don\Documents\Eclipse Garmin Workspace\Dope\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeMenuDelegate.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeMenuDelegate.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeMenuDelegate.mc" id="4" lineNum="10" pc="268435479" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeMenuDelegate.mc" id="4" lineNum="11" pc="268435483" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeMenuDelegate.mc" id="4" lineNum="14" pc="268435494" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeMenuDelegate.mc" id="4" lineNum="15" pc="268435528" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeMenuDelegate.mc" id="4" lineNum="17" pc="268435615" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeMenuDelegate.mc" id="4" lineNum="20" pc="268435626" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeMenuDelegate.mc" id="4" lineNum="21" pc="268435660" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeMenuDelegate.mc" id="4" lineNum="23" pc="268435747" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeMenuDelegate.mc" id="4" lineNum="24" pc="268435758" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeMenuDelegate.mc" id="4" lineNum="25" pc="268435779" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeApp.mc" id="6" lineNum="6" pc="268435799" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeApp.mc" id="6" lineNum="7" pc="268435803" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeApp.mc" id="7" lineNum="11" pc="268435822" symbol="onStart"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeApp.mc" id="8" lineNum="15" pc="268435827" symbol="onStop"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeApp.mc" id="9" lineNum="19" pc="268435832" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeApp.mc" id="9" lineNum="20" pc="268435836" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="11" lineNum="6" pc="268435904" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="11" lineNum="7" pc="268435908" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="12" lineNum="10" pc="268435927" symbol="setWindEffectProperty"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="12" lineNum="11" pc="268435931" symbol="setWindEffectProperty"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="12" lineNum="13" pc="268435944" symbol="setWindEffectProperty"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="17" pc="268435979" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="18" pc="268435983" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="20" pc="268436020" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="21" pc="268436031" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="22" pc="268436064" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="23" pc="268436074" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="26" pc="268436108" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="28" pc="268436195" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="29" pc="268436206" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="30" pc="268436239" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="31" pc="268436249" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="34" pc="268436283" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="36" pc="268436370" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="37" pc="268436381" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="38" pc="268436414" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="39" pc="268436424" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="42" pc="268436458" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="44" pc="268436545" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="45" pc="268436556" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="46" pc="268436589" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="47" pc="268436599" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="50" pc="268436633" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="52" pc="268436720" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="53" pc="268436731" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="54" pc="268436764" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="55" pc="268436774" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="58" pc="268436808" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="13" lineNum="60" pc="268436895" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="14" lineNum="65" pc="268436910" symbol="onBack"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindEffectMenuDelegate.mc" id="14" lineNum="66" pc="268436914" symbol="onBack"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingViewDelegate.mc" id="16" lineNum="7" pc="268436943" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingViewDelegate.mc" id="16" lineNum="8" pc="268436947" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingViewDelegate.mc" id="17" lineNum="11" pc="268436966" symbol="onBack"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingViewDelegate.mc" id="17" lineNum="12" pc="268436970" symbol="onBack"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingViewDelegate.mc" id="17" lineNum="13" pc="268436998" symbol="onBack"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingViewDelegate.mc" id="18" lineNum="16" pc="268437002" symbol="onKey"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingViewDelegate.mc" id="18" lineNum="17" pc="268437006" symbol="onKey"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingViewDelegate.mc" id="18" lineNum="18" pc="268437026" symbol="onKey"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingViewDelegate.mc" id="18" lineNum="20" pc="268437057" symbol="onKey"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="20" lineNum="8" pc="268437061" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="20" lineNum="9" pc="268437065" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="21" lineNum="12" pc="268437084" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="21" lineNum="13" pc="268437088" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="22" lineNum="16" pc="268437126" symbol="onShow"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="22" lineNum="17" pc="268437130" symbol="onShow"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="22" lineNum="18" pc="268437142" symbol="onShow"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="22" lineNum="19" pc="268437160" symbol="onShow"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="22" lineNum="20" pc="268437178" symbol="onShow"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="22" lineNum="21" pc="268437191" symbol="onShow"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="22" lineNum="24" pc="268437214" symbol="onShow"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="22" lineNum="26" pc="268437231" symbol="onShow"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="22" lineNum="27" pc="268437244" symbol="onShow"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="22" lineNum="30" pc="268437267" symbol="onShow"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="23" lineNum="35" pc="268437285" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="23" lineNum="36" pc="268437289" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="24" lineNum="39" pc="268437310" symbol="onHide"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="25" lineNum="42" pc="268437315" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="25" lineNum="43" pc="268437319" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="25" lineNum="44" pc="268437352" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="25" lineNum="45" pc="268437356" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="25" lineNum="46" pc="268437392" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="25" lineNum="47" pc="268437428" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="25" lineNum="49" pc="268437462" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="25" lineNum="50" pc="268437476" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="26" lineNum="53" pc="268437491" symbol="loadElevation"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="26" lineNum="55" pc="268437495" symbol="loadElevation"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="27" lineNum="58" pc="268437541" symbol="loadWindage"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="27" lineNum="62" pc="268437545" symbol="loadWindage"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\ScopeSettingView.mc" id="27" lineNum="66" pc="268437555" symbol="loadWindage"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="29" lineNum="6" pc="268437601" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="29" lineNum="7" pc="268437605" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="11" pc="268437624" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="12" pc="268437628" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="14" pc="268437665" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="15" pc="268437676" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="16" pc="268437709" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="17" pc="268437719" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="20" pc="268437753" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="22" pc="268437840" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="23" pc="268437851" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="24" pc="268437884" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="25" pc="268437894" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="28" pc="268437928" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="30" pc="268438015" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="31" pc="268438026" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="32" pc="268438059" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="33" pc="268438069" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="36" pc="268438103" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="38" pc="268438190" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="39" pc="268438201" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="40" pc="268438234" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="41" pc="268438244" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="44" pc="268438278" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="46" pc="268438365" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="47" pc="268438376" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="48" pc="268438409" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="49" pc="268438419" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="52" pc="268438453" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="30" lineNum="54" pc="268438540" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="31" lineNum="60" pc="268438555" symbol="onKey"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="32" lineNum="65" pc="268438560" symbol="onBack"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\RangeMenuDelegate.mc" id="32" lineNum="66" pc="268438564" symbol="onBack"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeView.mc" id="34" lineNum="5" pc="268438593" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeView.mc" id="34" lineNum="6" pc="268438597" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeView.mc" id="35" lineNum="10" pc="268438616" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeView.mc" id="35" lineNum="11" pc="268438620" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeView.mc" id="36" lineNum="17" pc="268438658" symbol="onShow"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeView.mc" id="37" lineNum="21" pc="268438663" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeView.mc" id="37" lineNum="23" pc="268438667" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeView.mc" id="38" lineNum="29" pc="268438688" symbol="onHide"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="40" lineNum="10" pc="268438693" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="40" lineNum="11" pc="268438697" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="40" lineNum="12" pc="268438751" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="40" lineNum="13" pc="268438764" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="40" lineNum="15" pc="268438776" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="40" lineNum="16" pc="268438831" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="40" lineNum="17" pc="268438834" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="40" lineNum="19" pc="268438856" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="40" lineNum="20" pc="268438863" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="40" lineNum="21" pc="268438873" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="40" lineNum="22" pc="268438877" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="40" lineNum="25" pc="268438952" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="40" lineNum="27" pc="268439062" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="41" lineNum="30" pc="268439143" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="41" lineNum="31" pc="268439147" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="41" lineNum="32" pc="268439154" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="41" lineNum="33" pc="268439188" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="41" lineNum="34" pc="268439222" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="41" lineNum="35" pc="268439256" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="42" lineNum="39" pc="268439289" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="42" lineNum="40" pc="268439293" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="42" lineNum="41" pc="268439329" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="42" lineNum="42" pc="268439341" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="43" lineNum="45" pc="268439362" symbol="addCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="43" lineNum="46" pc="268439366" symbol="addCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="43" lineNum="47" pc="268439385" symbol="addCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="43" lineNum="50" pc="268439400" symbol="addCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="43" lineNum="51" pc="268439416" symbol="addCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="44" lineNum="55" pc="268439443" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="44" lineNum="56" pc="268439447" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="44" lineNum="58" pc="268439500" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="44" lineNum="59" pc="268439526" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="44" lineNum="62" pc="268439582" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="45" lineNum="66" pc="268439609" symbol="getTitle"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="45" lineNum="67" pc="268439613" symbol="getTitle"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="46" lineNum="70" pc="268439632" symbol="getTitleLength"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="46" lineNum="71" pc="268439636" symbol="getTitleLength"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="47" lineNum="74" pc="268439655" symbol="isDone"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="47" lineNum="75" pc="268439659" symbol="isDone"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="49" lineNum="82" pc="268439680" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="49" lineNum="83" pc="268439684" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="49" lineNum="84" pc="268439702" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="50" lineNum="87" pc="268439713" symbol="onCancel"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="50" lineNum="88" pc="268439717" symbol="onCancel"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="50" lineNum="92" pc="268439746" symbol="onCancel"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="51" lineNum="96" pc="268439765" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="51" lineNum="97" pc="268439769" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="51" lineNum="98" pc="268439798" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="51" lineNum="101" pc="268439827" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="51" lineNum="102" pc="268439862" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="51" lineNum="105" pc="268439919" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="51" lineNum="108" pc="268439990" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="51" lineNum="109" pc="268440018" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="51" lineNum="110" pc="268440046" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\WindagePicker.mc" id="51" lineNum="111" pc="268440074" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="53" lineNum="8" pc="268440103" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="53" lineNum="9" pc="268440107" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="54" lineNum="12" pc="268440126" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="54" lineNum="13" pc="268440130" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="54" lineNum="14" pc="268440161" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="54" lineNum="15" pc="268440195" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="54" lineNum="16" pc="268440229" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="54" lineNum="18" pc="268440261" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="54" lineNum="19" pc="268440275" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="54" lineNum="20" pc="268440310" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="55" lineNum="24" pc="268440386" symbol="loadSetting"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="55" lineNum="26" pc="268440390" symbol="loadSetting"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="55" lineNum="27" pc="268440394" symbol="loadSetting"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="55" lineNum="30" pc="268440404" symbol="loadSetting"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="55" lineNum="31" pc="268440441" symbol="loadSetting"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="37" pc="268440479" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="38" pc="268440483" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="39" pc="268440518" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="41" pc="268440553" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="42" pc="268440564" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="43" pc="268440595" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="44" pc="268440605" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="46" pc="268440637" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="48" pc="268440652" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="49" pc="268440663" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="50" pc="268440694" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="51" pc="268440704" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="53" pc="268440736" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="55" pc="268440751" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="56" pc="268440762" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="57" pc="268440793" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="58" pc="268440803" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="60" pc="268440835" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="62" pc="268440850" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="63" pc="268440861" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="64" pc="268440892" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="65" pc="268440902" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="67" pc="268440934" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="69" pc="268440949" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="72" pc="268440963" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="73" pc="268440987" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="75" pc="268441044" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="76" pc="268441079" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="77" pc="268441090" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="78" pc="268441121" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="79" pc="268441131" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="81" pc="268441163" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="83" pc="268441178" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="84" pc="268441189" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="85" pc="268441220" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="86" pc="268441230" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="88" pc="268441262" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="90" pc="268441277" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="91" pc="268441288" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="92" pc="268441319" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="93" pc="268441329" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="95" pc="268441361" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="97" pc="268441376" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="98" pc="268441387" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="99" pc="268441418" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="100" pc="268441428" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="102" pc="268441460" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="56" lineNum="104" pc="268441475" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="57" lineNum="110" pc="268441493" symbol="onBack"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\WindSpeedMenuDelegate.mc" id="57" lineNum="111" pc="268441497" symbol="onBack"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="59" lineNum="10" pc="268441526" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="59" lineNum="11" pc="268441530" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="59" lineNum="12" pc="268441584" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="59" lineNum="13" pc="268441597" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="59" lineNum="15" pc="268441609" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="59" lineNum="16" pc="268441664" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="59" lineNum="17" pc="268441667" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="59" lineNum="19" pc="268441689" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="59" lineNum="20" pc="268441696" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="59" lineNum="21" pc="268441706" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="59" lineNum="22" pc="268441710" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="59" lineNum="25" pc="268441785" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="59" lineNum="27" pc="268441895" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="60" lineNum="30" pc="268441976" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="60" lineNum="31" pc="268441980" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="60" lineNum="32" pc="268442011" symbol="buildTargetData"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="61" lineNum="35" pc="268442044" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="61" lineNum="36" pc="268442048" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="61" lineNum="37" pc="268442084" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="61" lineNum="38" pc="268442096" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="62" lineNum="41" pc="268442117" symbol="addCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="62" lineNum="42" pc="268442121" symbol="addCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="62" lineNum="43" pc="268442140" symbol="addCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="62" lineNum="46" pc="268442155" symbol="addCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="62" lineNum="47" pc="268442171" symbol="addCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="63" lineNum="51" pc="268442198" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="63" lineNum="52" pc="268442202" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="63" lineNum="54" pc="268442255" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="63" lineNum="55" pc="268442281" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="63" lineNum="58" pc="268442337" symbol="removeCharacter"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="64" lineNum="62" pc="268442364" symbol="getTitle"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="64" lineNum="63" pc="268442368" symbol="getTitle"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="65" lineNum="66" pc="268442387" symbol="getTitleLength"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="65" lineNum="67" pc="268442391" symbol="getTitleLength"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="66" lineNum="70" pc="268442410" symbol="isDone"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="66" lineNum="71" pc="268442414" symbol="isDone"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="68" lineNum="78" pc="268442435" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="68" lineNum="79" pc="268442439" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="68" lineNum="80" pc="268442457" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="69" lineNum="83" pc="268442468" symbol="onCancel"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="69" lineNum="84" pc="268442472" symbol="onCancel"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="69" lineNum="85" pc="268442498" symbol="onCancel"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="69" lineNum="88" pc="268442529" symbol="onCancel"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="70" lineNum="92" pc="268442548" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="70" lineNum="93" pc="268442552" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="70" lineNum="94" pc="268442581" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="70" lineNum="97" pc="268442610" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="70" lineNum="98" pc="268442645" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="70" lineNum="101" pc="268442702" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="70" lineNum="103" pc="268442773" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\pickers\\ElevationPicker.mc" id="70" lineNum="104" pc="268442797" symbol="onAccept"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="72" lineNum="9" pc="268442852" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="72" lineNum="10" pc="268442856" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="72" lineNum="11" pc="268442874" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="72" lineNum="12" pc="268442884" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="73" lineNum="15" pc="268442922" symbol="getIndex"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="73" lineNum="16" pc="268442926" symbol="getIndex"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="73" lineNum="17" pc="268442947" symbol="getIndex"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="74" lineNum="20" pc="268442951" symbol="getSize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="74" lineNum="21" pc="268442955" symbol="getSize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="75" lineNum="24" pc="268442999" symbol="getValue"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="75" lineNum="25" pc="268443003" symbol="getValue"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="75" lineNum="26" pc="268443026" symbol="getValue"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="75" lineNum="29" pc="268443038" symbol="getValue"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="76" lineNum="32" pc="268443067" symbol="getDrawable"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="76" lineNum="33" pc="268443071" symbol="getDrawable"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="76" lineNum="34" pc="268443094" symbol="getDrawable"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="76" lineNum="37" pc="268443238" symbol="getDrawable"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="77" lineNum="40" pc="268443373" symbol="isDone"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\factories\\CharacterFactory.mc" id="77" lineNum="41" pc="268443377" symbol="isDone"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeDelegate.mc" id="79" lineNum="5" pc="268443404" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeDelegate.mc" id="79" lineNum="6" pc="268443408" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeDelegate.mc" id="79" lineNum="8" pc="268443426" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeDelegate.mc" id="79" lineNum="9" pc="268443460" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeDelegate.mc" id="79" lineNum="10" pc="268443497" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeDelegate.mc" id="79" lineNum="11" pc="268443534" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeDelegate.mc" id="79" lineNum="12" pc="268443571" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeDelegate.mc" id="79" lineNum="13" pc="268443608" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeDelegate.mc" id="79" lineNum="14" pc="268443645" symbol="initialize"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeDelegate.mc" id="80" lineNum="17" pc="268443683" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeDelegate.mc" id="80" lineNum="18" pc="268443687" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Don\\Documents\\Eclipse Garmin Workspace\\Dope\\source\\DopeDelegate.mc" id="80" lineNum="19" pc="268443771" symbol="onMenu"/>
+        <entry filename="Rez" id="86" lineNum="15" pc="268443775" symbol="MainLayout"/>
+        <entry filename="Rez" id="86" lineNum="17" pc="268443787" symbol="MainLayout"/>
+        <entry filename="Rez" id="86" lineNum="18" pc="268443939" symbol="MainLayout"/>
+        <entry filename="Rez" id="86" lineNum="20" pc="268444121" symbol="MainLayout"/>
+        <entry filename="Rez" id="87" lineNum="29" pc="268444149" symbol="ScopeSettingLayout"/>
+        <entry filename="Rez" id="87" lineNum="31" pc="268444161" symbol="ScopeSettingLayout"/>
+        <entry filename="Rez" id="87" lineNum="32" pc="268444294" symbol="ScopeSettingLayout"/>
+        <entry filename="Rez" id="87" lineNum="33" pc="268444427" symbol="ScopeSettingLayout"/>
+        <entry filename="Rez" id="87" lineNum="34" pc="268444592" symbol="ScopeSettingLayout"/>
+        <entry filename="Rez" id="87" lineNum="35" pc="268444725" symbol="ScopeSettingLayout"/>
+        <entry filename="Rez" id="87" lineNum="36" pc="268444890" symbol="ScopeSettingLayout"/>
+        <entry filename="Rez" id="87" lineNum="38" pc="268445042" symbol="ScopeSettingLayout"/>
+        <entry filename="Rez" id="90" lineNum="51" pc="268445110" symbol="initialize"/>
+        <entry filename="Rez" id="90" lineNum="52" pc="268445114" symbol="initialize"/>
+        <entry filename="Rez" id="90" lineNum="53" pc="268445132" symbol="initialize"/>
+        <entry filename="Rez" id="90" lineNum="53" pc="268445189" symbol="initialize"/>
+        <entry filename="Rez" id="90" lineNum="54" pc="268445211" symbol="initialize"/>
+        <entry filename="Rez" id="90" lineNum="55" pc="268445233" symbol="initialize"/>
+        <entry filename="Rez" id="92" lineNum="67" pc="268445256" symbol="initialize"/>
+        <entry filename="Rez" id="92" lineNum="68" pc="268445260" symbol="initialize"/>
+        <entry filename="Rez" id="92" lineNum="69" pc="268445278" symbol="initialize"/>
+        <entry filename="Rez" id="92" lineNum="69" pc="268445301" symbol="initialize"/>
+        <entry filename="Rez" id="92" lineNum="70" pc="268445323" symbol="initialize"/>
+        <entry filename="Rez" id="92" lineNum="71" pc="268445345" symbol="initialize"/>
+        <entry filename="Rez" id="92" lineNum="72" pc="268445367" symbol="initialize"/>
+        <entry filename="Rez" id="92" lineNum="73" pc="268445389" symbol="initialize"/>
+        <entry filename="Rez" id="92" lineNum="74" pc="268445411" symbol="initialize"/>
+        <entry filename="Rez" id="94" lineNum="86" pc="268445434" symbol="initialize"/>
+        <entry filename="Rez" id="94" lineNum="87" pc="268445438" symbol="initialize"/>
+        <entry filename="Rez" id="94" lineNum="88" pc="268445456" symbol="initialize"/>
+        <entry filename="Rez" id="94" lineNum="88" pc="268445479" symbol="initialize"/>
+        <entry filename="Rez" id="94" lineNum="89" pc="268445501" symbol="initialize"/>
+        <entry filename="Rez" id="94" lineNum="90" pc="268445523" symbol="initialize"/>
+        <entry filename="Rez" id="94" lineNum="91" pc="268445545" symbol="initialize"/>
+        <entry filename="Rez" id="94" lineNum="92" pc="268445567" symbol="initialize"/>
+        <entry filename="Rez" id="94" lineNum="93" pc="268445589" symbol="initialize"/>
+        <entry filename="Rez" id="96" lineNum="105" pc="268445612" symbol="initialize"/>
+        <entry filename="Rez" id="96" lineNum="106" pc="268445616" symbol="initialize"/>
+        <entry filename="Rez" id="96" lineNum="107" pc="268445634" symbol="initialize"/>
+        <entry filename="Rez" id="96" lineNum="107" pc="268445657" symbol="initialize"/>
+        <entry filename="Rez" id="96" lineNum="108" pc="268445679" symbol="initialize"/>
+        <entry filename="Rez" id="96" lineNum="109" pc="268445701" symbol="initialize"/>
+        <entry filename="Rez" id="96" lineNum="110" pc="268445723" symbol="initialize"/>
+        <entry filename="Rez" id="96" lineNum="111" pc="268445745" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="16" object="true" symbol="WindagePicker"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389626" method="true" symbol="onAccept"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="9" object="true" symbol="DopeMenuDelegate"/>
+        <entry id="18" object="true" symbol="WindSpeedMenuDelegate"/>
+        <entry id="70" symbol="Exit"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="58" symbol="mTitleText"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="39" symbol="characterPickerOk"/>
+        <entry id="36" method="true" symbol="MainLayout"/>
+        <entry id="77" symbol="Range100"/>
+        <entry id="75" symbol="Percent100"/>
+        <entry id="34" object="true" symbol="WindEffectMenu"/>
+        <entry field="true" id="65" symbol="mAddOk"/>
+        <entry field="true" id="59" symbol="mFactory"/>
+        <entry id="56" method="true" symbol="loadSetting"/>
+        <entry id="8389629" method="true" symbol="getValue"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="11" object="true" symbol="WindEffectMenuDelegate"/>
+        <entry field="true" id="53" symbol="MenuLabel2"/>
+        <entry field="true" id="52" symbol="MenuLabel1"/>
+        <entry id="76" symbol="Back"/>
+        <entry id="71" symbol="Percent0"/>
+        <entry field="true" id="48" symbol="AppName"/>
+        <entry field="true" id="43" symbol="HomeTitle"/>
+        <entry field="true" id="24" symbol="windageData"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="82" symbol="addOk"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="74" symbol="Percent75"/>
+        <entry id="73" symbol="Percent50"/>
+        <entry id="19" object="true" symbol="ElevationPicker"/>
+        <entry id="72" symbol="Percent25"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="64" method="true" symbol="isDone"/>
+        <entry id="15" object="true" symbol="DopeView"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8389630" method="true" symbol="getSize"/>
+        <entry id="22" object="true" symbol="DopeDelegate"/>
+        <entry id="30" module="true" symbol="Menus"/>
+        <entry field="true" id="45" symbol="WindageSetting"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="41" symbol="WindagePickerTitle"/>
+        <entry id="10" object="true" symbol="DopeApp"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="66" symbol="DONE"/>
+        <entry field="true" id="42" symbol="WindageString"/>
+        <entry id="81" symbol="Range500"/>
+        <entry id="17" object="true" symbol="WindagePickerDelegate"/>
+        <entry id="8389644" symbol="defaults"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="23" symbol="elevationData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="61" method="true" symbol="removeCharacter"/>
+        <entry id="32" object="true" symbol="MainMenu"/>
+        <entry field="true" id="28" symbol="mPicker"/>
+        <entry id="8389628" method="true" symbol="getDrawable"/>
+        <entry id="55" method="true" symbol="setWindEffectProperty"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="80" symbol="Range400"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="33" object="true" symbol="RangeMenu"/>
+        <entry id="69" symbol="setup"/>
+        <entry id="26" method="true" symbol="loadElevation"/>
+        <entry id="13" object="true" symbol="ScopeSettingView"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="44" symbol="AuxMenuTitle"/>
+        <entry id="12" object="true" symbol="ScopeSettingViewDelegate"/>
+        <entry field="true" id="31" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="40" symbol="MainMenuTitle"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="35" object="true" symbol="WindSpeedMenu"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="51" symbol="Prompt"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="79" symbol="Range300"/>
+        <entry id="63" method="true" symbol="getTitleLength"/>
+        <entry id="8389541" method="true" symbol="onCancel"/>
+        <entry field="true" id="46" symbol="AuxMenuLabel2"/>
+        <entry field="true" id="49" symbol="AuxMenuLabel1"/>
+        <entry id="37" method="true" symbol="ScopeSettingLayout"/>
+        <entry field="true" id="54" symbol="ElevationString"/>
+        <entry id="27" method="true" symbol="loadWindage"/>
+        <entry field="true" id="47" symbol="ElevationPickerTitle"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="38" symbol="BackMessage"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="21" object="true" symbol="CharacterFactory"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry id="20" object="true" symbol="ElevationPickerDelegate"/>
+        <entry id="67" method="true" symbol="getIndex"/>
+        <entry id="62" method="true" symbol="getTitle"/>
+        <entry id="14" object="true" symbol="RangeMenuDelegate"/>
+        <entry id="25" method="true" symbol="buildTargetData"/>
+        <entry field="true" id="50" symbol="ElevationSetting"/>
+        <entry id="60" method="true" symbol="addCharacter"/>
+        <entry id="29" module="true" symbol="Layouts"/>
+        <entry id="86" symbol="Speed4"/>
+        <entry id="85" symbol="Speed3"/>
+        <entry id="84" symbol="Speed2"/>
+        <entry id="83" symbol="Speed1"/>
+        <entry id="8389643" symbol="pattern"/>
+        <entry id="68" symbol="shoot"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="78" symbol="Range200"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="57" symbol="mCharacterSet"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="8389642" symbol="title"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435799" name="item" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435827" name="state" stackId="1" startPc="268435822"/>
+        <entry arg="true" endPc="268435832" name="state" stackId="1" startPc="268435827"/>
+        <entry endPc="268435978" name="itemId" stackId="2" startPc="268435931"/>
+        <entry arg="true" endPc="268435979" name="item" stackId="1" startPc="268435927"/>
+        <entry endPc="268436192" name="targetDataString" stackId="2" startPc="268436031"/>
+        <entry endPc="268436367" name="targetDataString" stackId="3" startPc="268436206"/>
+        <entry endPc="268436542" name="targetDataString" stackId="4" startPc="268436381"/>
+        <entry endPc="268436717" name="targetDataString" stackId="5" startPc="268436556"/>
+        <entry endPc="268436892" name="targetDataString" stackId="6" startPc="268436731"/>
+        <entry arg="true" endPc="268436910" name="item" stackId="1" startPc="268435979"/>
+        <entry arg="true" endPc="268437061" name="keyEvent" stackId="1" startPc="268437002"/>
+        <entry arg="true" endPc="268437126" name="dc" stackId="1" startPc="268437084"/>
+        <entry endPc="268437284" name="windage" stackId="2" startPc="268437130"/>
+        <entry endPc="268437284" name="elevation" stackId="1" startPc="268437130"/>
+        <entry arg="true" endPc="268437310" name="dc" stackId="1" startPc="268437285"/>
+        <entry endPc="268437490" name="range" stackId="1" startPc="268437319"/>
+        <entry endPc="268437490" name="targetData" stackId="2" startPc="268437319"/>
+        <entry arg="true" endPc="268437541" name="range" stackId="1" startPc="268437491"/>
+        <entry endPc="268437600" name="windageString" stackId="2" startPc="268437545"/>
+        <entry arg="true" endPc="268437601" name="targetDataString" stackId="1" startPc="268437541"/>
+        <entry endPc="268437837" name="targetDataString" stackId="2" startPc="268437676"/>
+        <entry endPc="268438012" name="targetDataString" stackId="3" startPc="268437851"/>
+        <entry endPc="268438187" name="targetDataString" stackId="4" startPc="268438026"/>
+        <entry endPc="268438362" name="targetDataString" stackId="5" startPc="268438201"/>
+        <entry endPc="268438537" name="targetDataString" stackId="6" startPc="268438376"/>
+        <entry arg="true" endPc="268438555" name="item" stackId="1" startPc="268437624"/>
+        <entry arg="true" endPc="268438560" name="keyEvent" stackId="1" startPc="268438555"/>
+        <entry arg="true" endPc="268438658" name="dc" stackId="1" startPc="268438616"/>
+        <entry arg="true" endPc="268438688" name="dc" stackId="1" startPc="268438663"/>
+        <entry endPc="268439142" name="titleText" stackId="3" startPc="268438697"/>
+        <entry endPc="268439142" name="string" stackId="1" startPc="268438697"/>
+        <entry endPc="268439142" name="defaults" stackId="2" startPc="268438697"/>
+        <entry endPc="268439288" name="windage" stackId="1" startPc="268439147"/>
+        <entry arg="true" endPc="268439362" name="dc" stackId="1" startPc="268439289"/>
+        <entry arg="true" endPc="268439443" name="character" stackId="1" startPc="268439362"/>
+        <entry arg="true" endPc="268439680" name="value" stackId="1" startPc="268439655"/>
+        <entry arg="true" endPc="268439713" name="picker" stackId="1" startPc="268439680"/>
+        <entry arg="true" endPc="268440103" name="values" stackId="1" startPc="268439765"/>
+        <entry endPc="268440385" name="targetData" stackId="1" startPc="268440130"/>
+        <entry endPc="268440478" name="windageString" stackId="3" startPc="268440390"/>
+        <entry endPc="268440478" name="elevationString" stackId="2" startPc="268440390"/>
+        <entry endPc="268440478" name="windageData" stackId="5" startPc="268440390"/>
+        <entry endPc="268440478" name="elevationData" stackId="4" startPc="268440390"/>
+        <entry arg="true" endPc="268440479" name="targetDataString" stackId="1" startPc="268440386"/>
+        <entry endPc="268440649" name="targetDataString" stackId="2" startPc="268440564"/>
+        <entry endPc="268440748" name="targetDataString" stackId="3" startPc="268440663"/>
+        <entry endPc="268440847" name="targetDataString" stackId="4" startPc="268440762"/>
+        <entry endPc="268440946" name="targetDataString" stackId="5" startPc="268440861"/>
+        <entry endPc="268441041" name="picker" stackId="6" startPc="268440553"/>
+        <entry endPc="268441175" name="targetDataString" stackId="7" startPc="268441090"/>
+        <entry endPc="268441274" name="targetDataString" stackId="8" startPc="268441189"/>
+        <entry endPc="268441373" name="targetDataString" stackId="9" startPc="268441288"/>
+        <entry endPc="268441472" name="targetDataString" stackId="10" startPc="268441387"/>
+        <entry arg="true" endPc="268441493" name="item" stackId="1" startPc="268440479"/>
+        <entry endPc="268441975" name="titleText" stackId="3" startPc="268441530"/>
+        <entry endPc="268441975" name="string" stackId="1" startPc="268441530"/>
+        <entry endPc="268441975" name="defaults" stackId="2" startPc="268441530"/>
+        <entry endPc="268442043" name="elevation" stackId="1" startPc="268441980"/>
+        <entry arg="true" endPc="268442117" name="dc" stackId="1" startPc="268442044"/>
+        <entry arg="true" endPc="268442198" name="character" stackId="1" startPc="268442117"/>
+        <entry arg="true" endPc="268442435" name="value" stackId="1" startPc="268442410"/>
+        <entry arg="true" endPc="268442468" name="picker" stackId="1" startPc="268442435"/>
+        <entry endPc="268442851" name="picker" stackId="2" startPc="268442610"/>
+        <entry arg="true" endPc="268442852" name="values" stackId="1" startPc="268442548"/>
+        <entry arg="true" endPc="268442922" name="characterSet" stackId="1" startPc="268442852"/>
+        <entry arg="true" endPc="268442922" name="options" stackId="2" startPc="268442852"/>
+        <entry endPc="268442950" name="index" stackId="2" startPc="268442926"/>
+        <entry arg="true" endPc="268442951" name="value" stackId="1" startPc="268442922"/>
+        <entry arg="true" endPc="268443067" name="index" stackId="1" startPc="268442999"/>
+        <entry arg="true" endPc="268443373" name="index" stackId="1" startPc="268443067"/>
+        <entry arg="true" endPc="268443373" name="selected" stackId="2" startPc="268443067"/>
+        <entry arg="true" endPc="268443404" name="value" stackId="1" startPc="268443373"/>
+        <entry endPc="268444148" name="rez_cmp_local_text_2407285712" stackId="3" startPc="268443787"/>
+        <entry endPc="268444148" name="rez_cmp_local_text_1557741342" stackId="2" startPc="268443787"/>
+        <entry arg="true" endPc="268444149" name="dc" stackId="1" startPc="268443775"/>
+        <entry endPc="268445109" name="rez_cmp_local_text_WindageString" stackId="6" startPc="268444161"/>
+        <entry endPc="268445109" name="rez_cmp_local_text_6794139117" stackId="5" startPc="268444161"/>
+        <entry endPc="268445109" name="rez_cmp_local_text_5331624211" stackId="3" startPc="268444161"/>
+        <entry endPc="268445109" name="rez_cmp_local_text_9702432003" stackId="2" startPc="268444161"/>
+        <entry endPc="268445109" name="rez_cmp_local_text_ElevationString" stackId="4" startPc="268444161"/>
+        <entry endPc="268445109" name="rez_cmp_local_text_4328837786" stackId="7" startPc="268444161"/>
+        <entry arg="true" endPc="268445110" name="dc" stackId="1" startPc="268444149"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="246" parentId="globals" symbolId="ScopeSettingViewDelegate" type="class"/>
+        <dataEntry offset="309" parentId="globals" symbolId="ScopeSettingView" type="class"/>
+        <dataEntry offset="428" parentId="globals" symbolId="DopeApp" type="class"/>
+        <dataEntry offset="499" parentId="globals" symbolId="ElevationPickerDelegate" type="class"/>
+        <dataEntry offset="570" parentId="globals" symbolId="DopeDelegate" type="class"/>
+        <dataEntry offset="625" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="704" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="743" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="806" parentId="Menus" symbolId="WindEffectMenu" type="class"/>
+        <dataEntry offset="853" parentId="Menus" symbolId="WindSpeedMenu" type="class"/>
+        <dataEntry offset="900" parentId="Menus" symbolId="RangeMenu" type="class"/>
+        <dataEntry offset="947" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry offset="994" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="1025" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="1072" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="1103" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1270" parentId="globals" symbolId="WindagePickerDelegate" type="class"/>
+        <dataEntry offset="1341" parentId="globals" symbolId="WindEffectMenuDelegate" type="class"/>
+        <dataEntry offset="1412" parentId="globals" symbolId="WindSpeedMenuDelegate" type="class"/>
+        <dataEntry offset="1491" parentId="globals" symbolId="DopeView" type="class"/>
+        <dataEntry offset="1570" parentId="globals" symbolId="DopeMenuDelegate" type="class"/>
+        <dataEntry offset="1625" parentId="globals" symbolId="RangeMenuDelegate" type="class"/>
+        <dataEntry offset="1696" parentId="globals" symbolId="ElevationPicker" type="class"/>
+        <dataEntry offset="1823" parentId="globals" symbolId="WindagePicker" type="class"/>
+        <dataEntry offset="1950" parentId="globals" symbolId="CharacterFactory" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="DopeMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="DopeMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DopeApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="DopeApp">
+            <param id="state"/>
+            <documentation>
+                <![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="DopeApp">
+            <param id="state"/>
+            <documentation>
+                <![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="DopeApp">
+            <documentation>
+                <![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WindEffectMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setWindEffectProperty" parent="WindEffectMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="WindEffectMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="WindEffectMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ScopeSettingViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="ScopeSettingViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="ScopeSettingViewDelegate">
+            <param id="keyEvent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ScopeSettingView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="ScopeSettingView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="ScopeSettingView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ScopeSettingView">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Update the view<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="ScopeSettingView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="buildTargetData" parent="ScopeSettingView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="loadElevation" parent="ScopeSettingView">
+            <param id="range"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="loadWindage" parent="ScopeSettingView">
+            <param id="targetDataString"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="RangeMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="RangeMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="RangeMenuDelegate">
+            <param id="keyEvent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="RangeMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DopeView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="DopeView">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Load your resources here<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="DopeView">
+            <documentation>
+                <![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="DopeView">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Update the view<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="DopeView">
+            <documentation>
+                <![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WindagePicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="buildTargetData" parent="WindagePicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="WindagePicker">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="addCharacter" parent="WindagePicker">
+            <param id="character"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="removeCharacter" parent="WindagePicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTitle" parent="WindagePicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTitleLength" parent="WindagePicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isDone" parent="WindagePicker">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WindagePickerDelegate">
+            <param id="picker"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onCancel" parent="WindagePickerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onAccept" parent="WindagePickerDelegate">
+            <param id="values"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WindSpeedMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="buildTargetData" parent="WindSpeedMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="loadSetting" parent="WindSpeedMenuDelegate">
+            <param id="targetDataString"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="WindSpeedMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="WindSpeedMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ElevationPicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="buildTargetData" parent="ElevationPicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ElevationPicker">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="addCharacter" parent="ElevationPicker">
+            <param id="character"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="removeCharacter" parent="ElevationPicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTitle" parent="ElevationPicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTitleLength" parent="ElevationPicker">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isDone" parent="ElevationPicker">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ElevationPickerDelegate">
+            <param id="picker"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onCancel" parent="ElevationPickerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onAccept" parent="ElevationPickerDelegate">
+            <param id="values"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CharacterFactory">
+            <param id="characterSet"/>
+            <param id="options"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getIndex" parent="CharacterFactory">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSize" parent="CharacterFactory">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getValue" parent="CharacterFactory">
+            <param id="index"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getDrawable" parent="CharacterFactory">
+            <param id="index"/>
+            <param id="selected"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isDone" parent="CharacterFactory">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DopeDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="DopeDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="ScopeSettingLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MainMenu">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="RangeMenu">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WindEffectMenu">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WindSpeedMenu">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
